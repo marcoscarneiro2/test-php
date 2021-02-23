@@ -1,10 +1,12 @@
-# Live eCommerce
+# Live eCommerce - Teste para PHP
 
-[![TravisCI][icon-travisci]][link-travisci]
-[![Code Coverage][icon-codecov]][link-codecov]
+[![Build Status](your travis url for the repo here.png)](https://www.travis-ci.com/marcoscarneiro2/php-test.svg?branch=master)
 
 Este repositório contém uma implementação básica de coleções. Coleções armazenam dados pelo esquema de chave-valor, onde um valor é representado por uma chave.
 
+## Teste
+
+Este é um teste para a vaga de desenvolvedor de PHP, na Live eCommerce. Assumimos que se você souber resolver os problemas deste teste, estará apto para assumir responsabilidades maiores.
 
 ## Como fazer?
 
@@ -75,8 +77,8 @@ Para executar os testes, utilize o comando, na raiz do projeto:
 $ composer test
 ```
 
-[icon-travisci]: https://img.shields.io/travis/proclnas/liveecommerce-p-tst.svg?style=flat-square
-[icon-codecov]: https://img.shields.io/codecov/c/github/proclnas/liveecommerce-p-tst.svg?style=flat-square
+[icon-travisci]: https://img.shields.io/travis/liveecommerce/php-test.svg?style=flat-square
+[icon-codecov]: https://img.shields.io/codecov/c/github/liveecommerce/php-test.svg?style=flat-square
 
-[link-travisci]: https://travis-ci.org/proclnas/liveecommerce-p-tst
-[link-codecov]: https://codecov.io/gh/proclnas/liveecommerce-p-tst
+[link-travisci]: https://travis-ci.org/liveecommerce/php-test
+[link-codecov]: https://codecov.io/gh/liveecommerce/php-test
