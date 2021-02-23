@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5cf8b2b189402e65a1ba71f37433b99a",
+    "content-hash": "2701455eefe7e4c1e3b754c88c7e7fc9",
     "packages": [
         {
             "name": "mikey179/vfsStream",
@@ -108,11 +108,11 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2019-03-17T17:37:11+00:00"
+            "time": "2021-02-23T19:06:14+00:00"
         },
         {
             "name": "myclabs/deep-copy",
-            "version": "1.9.1",
+            "version": "1.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/myclabs/DeepCopy.git",
@@ -125,7 +125,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.1"
+                "php": "^7.2"
             },
             "replace": {
                 "myclabs/deep-copy": "self.version"
@@ -156,7 +156,7 @@
                 "object",
                 "object graph"
             ],
-            "time": "2019-04-07T13:18:21+00:00"
+            "time": "2021-02-23T19:06:14+00:00"
         },
         {
             "name": "phar-io/manifest",
@@ -211,7 +211,7 @@
                 }
             ],
             "description": "Component for reading phar.io manifest information from a PHP Archive (PHAR)",
-            "time": "2018-07-08T19:23:20+00:00"
+            "time": "2021-02-23T19:06:14+00:00"
         },
         {
             "name": "phar-io/version",
@@ -258,7 +258,7 @@
                 }
             ],
             "description": "Library for handling version information and constraints",
-            "time": "2018-07-08T19:19:57+00:00"
+            "time": "2021-02-23T19:06:15+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",
