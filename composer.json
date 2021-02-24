@@ -29,7 +29,7 @@
         }
     },
     "scripts": {
-        "test": "phpunit --testdox --colors=always--testsuite unit",
+        "test": "phpunit --testdox --colors=always",
         "check": "phpcs -p --standard=phpcs.xml"
     },
     "config": {
