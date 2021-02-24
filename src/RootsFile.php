@@ -4,35 +4,35 @@ namespace Live\Collection;
 
 /**
  * Modern File
- * Reads a file in the roots way
+ * Lê um arquivo no root
  *
  * @package Live\Collection
  */
 class RootsFile implements \Iterator
 {
     /**
-     * File pointer
+     * Ponteiro de arquivo
      *
      * @var resource
      */
     protected $fp;
 
     /**
-     * Key control
+     * Controle de chave
      *
      * @var int
      */
     protected $key;
 
     /**
-     * Current line
+     * Linha atual
      *
      * @var string
      */
     protected $current;
 
     /**
-     * Filename
+     * Nome do arquivo (fileName)
      *
      * @var string
      */
