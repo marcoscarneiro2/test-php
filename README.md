@@ -1,6 +1,6 @@
 # Live eCommerce - Teste para PHP
 
-[![Build Status](your travis url for the repo here.png)](https://www.travis-ci.com/marcoscarneiro2/php-test.svg?branch=master)
+
 
 Este repositório contém uma implementação básica de coleções. Coleções armazenam dados pelo esquema de chave-valor, onde um valor é representado por uma chave.
 
